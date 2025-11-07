@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="../Common/Common.csproj" />
+  <Project Path="../Contracts/Contracts.csproj" />
   <Project Path="../Domain/Domain.csproj" />
   <Project Path="../Infrastructure/Infrastructure.csproj" />
   <Project Path="AlertHub.csproj" />
